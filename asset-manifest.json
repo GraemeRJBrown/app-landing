@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/app-landing/static/css/main.7b2833bc.chunk.css",
+    "main.js": "/app-landing/static/js/main.79caaf4c.chunk.js",
+    "main.js.map": "/app-landing/static/js/main.79caaf4c.chunk.js.map",
+    "runtime-main.js": "/app-landing/static/js/runtime-main.2b717d27.js",
+    "runtime-main.js.map": "/app-landing/static/js/runtime-main.2b717d27.js.map",
+    "static/css/2.aaca92c8.chunk.css": "/app-landing/static/css/2.aaca92c8.chunk.css",
+    "static/js/2.0da24c3d.chunk.js": "/app-landing/static/js/2.0da24c3d.chunk.js",
+    "static/js/2.0da24c3d.chunk.js.map": "/app-landing/static/js/2.0da24c3d.chunk.js.map",
+    "index.html": "/app-landing/index.html",
+    "precache-manifest.b06095fb9e55e500a27d79f165d5ba6f.js": "/app-landing/precache-manifest.b06095fb9e55e500a27d79f165d5ba6f.js",
+    "service-worker.js": "/app-landing/service-worker.js",
+    "static/css/2.aaca92c8.chunk.css.map": "/app-landing/static/css/2.aaca92c8.chunk.css.map",
+    "static/css/main.7b2833bc.chunk.css.map": "/app-landing/static/css/main.7b2833bc.chunk.css.map",
+    "static/js/2.0da24c3d.chunk.js.LICENSE.txt": "/app-landing/static/js/2.0da24c3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b717d27.js",
+    "static/css/2.aaca92c8.chunk.css",
+    "static/js/2.0da24c3d.chunk.js",
+    "static/css/main.7b2833bc.chunk.css",
+    "static/js/main.79caaf4c.chunk.js"
+  ]
+}
